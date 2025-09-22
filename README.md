@@ -1,4 +1,6 @@
 # qnito-githubfundamentals
 Lab 1
-## Lab 2
-Adding Lab 2 modification.
+## Lab 1.2
+Adding Lab 1 modification.
+## Lab 2 (correct)
+Creating new branch
